@@ -19,7 +19,7 @@
     <code>Exemplo:</code> <br>
     <img src="img/3-Comparador-maior e maior ou igual.png"> <br>
 
-- Menor / Menor ou igual.
+- Menor / Menor ou igual. <br>
   - Menor usando o sinal < <br>
   - Menor ou Igual usando os sinais <= <br>
     <code>Exemplo:</code> <br>
