@@ -23,4 +23,5 @@
    - Menor usando o sinal < <br>
    - Menor ou Igual usando os sinais <= <br>
     <code>Exemplo:</code> <br>
-    <img src="img/4-Comparador-menor e menor ou igual.png">
+    <img src="img/4-Comparador-menor e menor ou igual.png"> <br>
+
