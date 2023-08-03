@@ -10,4 +10,4 @@ Os tipos de comparadores são:
  - Maior / Maior ou Igual.
  - Menor / Menor ou igual.
 
-[Ver os Exemplos]()
+[Ver Mais Sobre os Tipos de Comparadores](https://github.com/henferreirapro/Primeiros-Passos-Python-DIO/blob/2-tipos-de-operadores-com-Python/6%20-%20Tipos%20de%20Operadores/README.md)
