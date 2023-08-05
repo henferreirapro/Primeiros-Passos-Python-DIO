@@ -6,8 +6,8 @@ Quando um operador de comparação é utilizado, ele retorna o resultado boolean
   
   - Para essa expressão ser True, os dois operadores precisão ser verdadeiros, caso um seja falso e o outro verdadeiro o resultado será False. 
 
-  Código para copiar:
-  <code>
+  Código para copiar: <br>
+  <blockquote>
 
     saldo = 500
     saque = 300
@@ -15,7 +15,7 @@ Quando um operador de comparação é utilizado, ele retorna o resultado boolean
 
     print(saldo >= saque and saque <= limite)
 
-  </code>
+  </blockquote>
   <img src="1 - Operador E (and).png">
 
 
@@ -24,7 +24,7 @@ Quando um operador de comparação é utilizado, ele retorna o resultado boolean
    - Para a expressão ser True, um dos operadores precisa ser verdadeiro, caso nenhuma seja verdadeira, a expressão sera False.
 
   Código para copiar:
-  <code>
+  <blockquote>
   
     saldo = 500
     saque = 300
@@ -32,7 +32,7 @@ Quando um operador de comparação é utilizado, ele retorna o resultado boolean
 
     print(saldo >= saque or saque <= limite)
   
-  </code>
+  </blockquote>
   <img src="2 - Operador Ou (or).png">
 
 
@@ -41,7 +41,7 @@ Quando um operador de comparação é utilizado, ele retorna o resultado boolean
   - Por exemplo, se o resultado for True o operador de negação dará a resposta False.
 
   Código para copiar:
-  <code>
+  <blockquote>
 
     print(not 1000 > 1500)
     # Resultado: False, Resposta: True
@@ -56,7 +56,7 @@ Quando um operador de comparação é utilizado, ele retorna o resultado boolean
     print(not "texto") #String com texto considerado True 
     #Resultado: True, Resposta: False
 
-  </code> 
+  </blockquote> 
   <img src="3 - Operador de Negação (not).png">
 
 
@@ -65,7 +65,7 @@ Quando um operador de comparação é utilizado, ele retorna o resultado boolean
  - Usamos o Parenteses para delimitar a ordem que será executado os operadores, assim fica uma forma melhor de ler e entender o código escrito.
 
   Código para copiar
-  <code>
+  <blockquote>
 
     saldo = 1000
     saque = 300
@@ -80,5 +80,5 @@ Quando um operador de comparação é utilizado, ele retorna o resultado boolean
     print((saldo >= saque and saque <= limite) or (conta_especial and saldo >= saque))
     # Resposta True
   
-  </code>
+  </blockquote>
   <img src="4 - Forma de declarar.png">
