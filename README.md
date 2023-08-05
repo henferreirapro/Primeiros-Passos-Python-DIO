@@ -5,12 +5,12 @@
 <h2>Operadores de Comparação</h2>
 
   Os tipos de comparadores são:
-  - Igualdade.
-  - Diferença.
-  - Maior / Maior ou Igual.
-  - Menor / Menor ou igual.
+   - Igualdade.
+   - Diferença.
+   - Maior / Maior ou Igual.
+   - Menor / Menor ou igual.
 
-    [Ver Mais Sobre os Operadores de Comparação](https://github.com/henferreirapro/Primeiros-Passos-Python-DIO/tree/main/6%20-%20Tipos%20de%20Operadores/1-operadores-compara%C3%A7%C3%A3o)
+   [Ver Mais Sobre os Operadores de Comparação](https://github.com/henferreirapro/Primeiros-Passos-Python-DIO/tree/main/6%20-%20Tipos%20de%20Operadores/1-operadores-compara%C3%A7%C3%A3o)
 
 
 <h2>Operadores Lógicos</h2>
@@ -18,11 +18,11 @@
   - São operadores utilizados em conjunto com os operadores de comparação para montar uma expressão lógica.
 
   Os Operadores Logicos são:
-  - Operador E (and).
-  - Operador Ou (or).
-  - Operador de Negação (not).
+   - Operador E (and).
+   - Operador Ou (or).
+   - Operador de Negação (not).
 
-    [Ver Mais Sobre Operadores Lógicos](https://github.com/henferreirapro/Primeiros-Passos-Python-DIO/tree/main/6%20-%20Tipos%20de%20Operadores/2-operadores-logicos)
+   [Ver Mais Sobre Operadores Lógicos](https://github.com/henferreirapro/Primeiros-Passos-Python-DIO/tree/main/6%20-%20Tipos%20de%20Operadores/2-operadores-logicos)
 
 
 <h2>Operadores de Identidade</h2>
@@ -33,6 +33,7 @@
   Os Operadores de Identidade são:
    - Operador is.
    - Operador is not.
+
 
    [Ver Mais Sobre Operadores de Identidade](https://github.com/henferreirapro/Primeiros-Passos-Python-DIO/tree/main/6%20-%20Tipos%20de%20Operadores/3-operadores-identidade)
 
