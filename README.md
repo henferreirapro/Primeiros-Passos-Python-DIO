@@ -22,4 +22,4 @@ Operadores Logicos são:
  - Operador Ou (or).
  - Operador de Negação (not).
 
-[Ver Mais Sobre Operadores Lógicos]()
+[Ver Mais Sobre Operadores Lógicos](https://github.com/henferreirapro/Primeiros-Passos-Python-DIO/tree/main/6%20-%20Tipos%20de%20Operadores/2-operadores-logicos)
