@@ -16,7 +16,7 @@ Quando um operador de comparação é utilizado, ele retorna o resultado boolean
     print(saldo >= saque and saque <= limite)
 
   </blockquote>
-  <img src="1 - Operador E (and).png">
+  <img src="img/1 - Operador E (and).png">
 
 
 <h2>Operador Ou (or)</h2>
@@ -33,7 +33,7 @@ Quando um operador de comparação é utilizado, ele retorna o resultado boolean
     print(saldo >= saque or saque <= limite)
   
   </blockquote>
-  <img src="2 - Operador Ou (or).png">
+  <img src="img/2 - Operador Ou (or).png">
 
 
 <h2>Operador de Negação (not)</h2>
@@ -57,7 +57,7 @@ Quando um operador de comparação é utilizado, ele retorna o resultado boolean
     #Resultado: True, Resposta: False
 
   </blockquote> 
-  <img src="3 - Operador de Negação (not).png">
+  <img src="img/3 - Operador de Negação (not).png">
 
 
 <h2>Forma de declarar:</h2>
@@ -81,4 +81,4 @@ Quando um operador de comparação é utilizado, ele retorna o resultado boolean
     # Resposta True
   
   </blockquote>
-  <img src="4 - Forma de declarar.png">
+  <img src="img/4 - Forma de declarar.png">
