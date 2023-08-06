@@ -2,7 +2,7 @@
 
 São Operadores utiizados para comparar se os dois objetos testados ocupam as mesmas posições na memoria.
 
-<h2>Operador - is</h2>
+<h2>Operador is</h2>
 
   - Quando eu quero comparar se o objeto **A** ocupa o mesmo lugar que o objeto **B** eu uso o operador **is**.
   - Se o objeto **A** e **B** ocuparem o mesmo espaço de memoria o resultado será **True**, se não será **False**.
