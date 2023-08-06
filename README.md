@@ -38,3 +38,12 @@
    [Ver Mais Sobre Operadores de Identidade](https://github.com/henferreirapro/Primeiros-Passos-Python-DIO/tree/main/6%20-%20Tipos%20de%20Operadores/3-operadores-identidade)
 
 
+<h2>Operadores de Associação</h2>
+
+ - Os operadores de associação tem a função de verificar se tem ou não algum item em uma determinada lista ou sequencia.
+
+  Os Operadores de Associação são:
+   - Operador in.
+   - Operador not in.
+  
+   [Ver mais Sobre Operadores de Associação](https://github.com/henferreirapro/Primeiros-Passos-Python-DIO/tree/main/6%20-%20Tipos%20de%20Operadores/4-operadores-associa%C3%A7%C3%A3o)
