@@ -46,4 +46,20 @@
    - Operador in.
    - Operador not in.
   
-   [Ver mais Sobre Operadores de Associação](https://github.com/henferreirapro/Primeiros-Passos-Python-DIO/tree/main/6%20-%20Tipos%20de%20Operadores/4-operadores-associa%C3%A7%C3%A3o)
+   [Ver Mais Sobre Operadores de Associação](https://github.com/henferreirapro/Primeiros-Passos-Python-DIO/tree/main/6%20-%20Tipos%20de%20Operadores/4-operadores-associa%C3%A7%C3%A3o)
+
+
+<h2>Estruturas Condicionais</h2>
+
+  - São estruturas para verificar se um ou varios itens atendem a uma determina expressão.
+  - Com elas podemos determinar ações diferentes para cada tipo de dado ou resposta obtida.
+  - O resultado disso é a execução de um bloco de código com uma ação diferente para cada tipo de necessidade ou padrão especificado na condição que foi criada.
+
+  As Estruturas Condicionais são:
+   - Condicional if.
+   - Condicional else.
+   - Condicional elif.
+   - Condicional if aninhado.
+   - Condicional if ternário.
+
+   [Ver Mais Sobre Estruturas Condicionais](https://github.com/henferreirapro/Primeiros-Passos-Python-DIO/tree/main/7%20-%20Estruturas%20condicionais%20e%20de%20repeticao/1-estruturas-condicionais)
