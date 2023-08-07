@@ -62,4 +62,4 @@
    - Condicional if aninhado.
    - Condicional if ternário.
 
-   [Ver Mais Sobre Estruturas Condicionais](https://github.com/henferreirapro/Primeiros-Passos-Python-DIO/tree/main/7%20-%20Estruturas%20condicionais%20e%20de%20repeticao/1-estruturas-condicionais)
+   [Ver Mais Sobre Estruturas Condicionais](https://github.com/henferreirapro/Primeiros-Passos-Python-DIO/tree/main/7%20-%20Estruturas%20Condicionais)
