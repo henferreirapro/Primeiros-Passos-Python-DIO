@@ -1,4 +1,4 @@
-<h1 aling="center">Estruturas Condicionais</h1>
+<h1 align="center">Estruturas Condicionais</h1>
 
 São condições que podemos criar para cada ação necessaria de algum item, assim quando um item atendem ou se enquadrar em um padrão já determinado ele executará um bloco de código para aquela ação.
 
