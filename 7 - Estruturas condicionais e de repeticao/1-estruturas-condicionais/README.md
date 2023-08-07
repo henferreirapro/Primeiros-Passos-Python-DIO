@@ -117,4 +117,29 @@ São condições que podemos criar para cada ação necessaria de algum item, as
             print("Sessão finalizada com sucesso!")
 
   </blockquote>
-  <img src="img/4 - Condicional if aninhado.png">
+  <img src="img/4 - Condição if aninhado.png">
+
+
+<h2>Condicional if ternário</h2>
+
+  - Essa condicional permite escrever uma condição em uma unica linha.
+  - Ele é composto por 3 partes:
+    - A primeira parté é retorno da condição **if** se a expressão for **True**.
+    - A segunda parte é a execução da expressão.
+    - A terceira parte é o retorno do **else** caso o **if** não seja executado.
+
+  Código para copiar:
+  <blockquote>
+  
+    # Condicional if ternário
+    saldo = 500
+    saque = float(input("Quanto deseja sacar? \n"))
+
+    status = "Saque realizado com Sucesso!" if saldo >= saque else "Saldo insuficiente!"
+
+    print(f"Resultado da sua transação foi: \n {status}")
+  
+  </blockquote>
+  <img src="img/5 - Condição if ternario.png">
+
+
