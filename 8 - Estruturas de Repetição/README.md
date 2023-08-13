@@ -38,3 +38,33 @@
   
   </blockquote>
   <img src="img/1 - Estrutura de Repetição for.png">
+
+<h2>Estrutura de Repetição for in range</h2>
+
+  - O **range** é uma **função do python** criada para **produzir** uma sequencia de números com inicio e fim determinados.
+  - Por padrão ele começará com número 0 caso não tenha um inicio especificado.
+  - O range **possui 3 argumentos**, **stop** que é obrigatório, **start** e **step** que são opcionais.
+  - O **stop** é o número que fara a execução parar, nesse caso se queremos que seja executado uma contagem de números até 10 o nosso stop seria o número 11, assim o código seria executado 10 vezes e pararia na 11ª execução.
+  - O **start** é o número que ira iniciar a execução, você pode escolher um número ou deixar o zero, ele irá começar a execução do código por esse número.
+  - O **step** seria meio que um  intervalo, ele seria por exemplo para a execução de uma tabuada ou para pular uma quantidade de números na execução, **por exemplo um código que conte de 0 a 20 pulando de 2 em 2 números**.
+
+  - Irei deixar um exemplo simples de contagem com range e um exemplo de uma tabuada com range.
+  - Na tabuada o start começa com o número 0, o stop seria o número 51 e o step número 5.
+  - Então o código iria executar a contagem a partir do 0 e pular de 5 em 5 casas, mostrando esses resultados igual a tabuada do 5.
+
+  Código para copiar:
+  <blockquote>
+
+    for numero in range(0, 11):
+        print(numero, end=" ")
+
+    # exibir uma tabuada usando as os argumentos start, stop e step
+    contador = 0
+    for numero in range(0, 51, 5):
+        print(f"5 x {contador} = {numero}")
+        contador += 1
+
+  </blockquote>
+  <img src="img/2 - Estrutura de Repetição for in range.png">
+
+
