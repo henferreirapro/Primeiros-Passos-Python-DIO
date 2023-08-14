@@ -68,3 +68,46 @@
   <img src="img/2 - Estrutura de Repetição for in range.png">
 
 
+<h2>Estrutura de Repetição while</h2>
+
+  - O while é utilizado para executar um código quando não o número exatos de repetição que aquele bloco de código precisa ser executado.
+  - Com o while podemos executar um bloco de código varias vezes até uma determinada opção ou padrãoo seja atendiido.
+  - Para parar a execução podemos usar a função break, com ela se a resposta ou condição for atendida o código irá parar.
+
+  Exemplo de um while simples sem uso da função break. <br>
+  Código  para copiar:
+  <blockquote>
+
+    opcao = int(input("Escolha uma das opções: \n [1]Sacar \n [2]Consultar extrato \n [0] Sair \n Qual serviço deseja acessar? "))
+
+    while opcao != 0:
+      opcao = int(input("Escolha uma das opções: \n [1]Sacar \n [2]Consultar extrato \n [0] Sair \n Qual serviço deseja acessar? "))
+
+      if opcao == 1:
+          print("Saque feito com sucesso!")
+      elif opcao == 2:
+          print("Seu extrato esta sendo carregado!")
+  
+  </blockquote>
+  <img src="img/3 - Estrutura de Repetição while.png">
+
+  Exemplo de while com uso do break. <br>
+  Código para copiar:
+  <blockquote>
+  
+    while True:
+      opcoes = int(input("Escolha uma das opções: \n [1]Sacar \n [2]Consultar extrato \n [0] Sair \n Qual serviço deseja acessar? "))
+
+      if opcoes == 1:
+          valor = float(input("Qual valor desejado? "))
+          print(f"O valor de R${valor:.2f} foi sacado com sucesso! \n")
+      elif opcoes == 2:
+          print("Carregando seu extrato... \n")
+      elif opcoes == 0:
+          print("Obrigado por usar nossos serviços! \n")
+          break
+  
+  </blockquote>
+  <img src="img/4 - Estrutura de Repetição while com break.png">
+
+
