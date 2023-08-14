@@ -63,3 +63,15 @@
    - Condicional if ternário.
 
    [Ver Mais Sobre Estruturas Condicionais](https://github.com/henferreirapro/Primeiros-Passos-Python-DIO/tree/main/7%20-%20Estruturas%20Condicionais)
+
+
+<h2>Estruturas de Repetição</h2>
+
+  - São estruturas usadas para repetir um bloco de código determinado.
+  - Esse número de repetições/Loops pode ser pré determinado ou pode ser atrelado a uma determinada resposta recebida na execução do Loop.
+
+  As Estruturas de Repetição são:
+   - Estrutura for.
+   - Estrutura while.
+
+   [Ver Mais Sobre Estruturas de Repetição](https://github.com/henferreirapro/Primeiros-Passos-Python-DIO/tree/main/8%20-%20Estruturas%20de%20Repeti%C3%A7%C3%A3o)
