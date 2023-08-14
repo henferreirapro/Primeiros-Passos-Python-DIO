@@ -1,7 +1,9 @@
-<h1 align=center>Primeiros-Passos-Python DIO</h1>
+<h1 align=center>Estudo Basico de Python</h1>
 
- Diretório para estudos iniciais em Python do Bootcamp Potência <br> Tech powered by iFood | Ciências de Dados com Python
+ Curso pela Digital Innovation One - DIO.<br>
 
+ Diretório para meus estudos em Python do Bootcamp Potência Tech <br> Powered by iFood | Ciências de Dados com Python.
+ 
 <h2>Operadores de Comparação</h2>
 
   Os tipos de comparadores são:
