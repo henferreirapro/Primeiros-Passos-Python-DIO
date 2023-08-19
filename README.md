@@ -77,3 +77,25 @@
    - Estrutura while.
 
    [Ver Mais Sobre Estruturas de Repetição](https://github.com/henferreirapro/Primeiros-Passos-Python-DIO/tree/main/8%20-%20Estruturas%20de%20Repeti%C3%A7%C3%A3o)
+
+
+<h2>Manipulando String</h2>
+  
+  Metodos de Formatação de Strings:
+  - Letras Maiusculas - Metodo upper().
+  - Letras Minusculas - Metodo lower().
+  - Formato Titulo - Metodo title().
+  ___
+  
+  Metodos Para Retirar Espaçamento em Strings:
+  - Metodo strip() - Retira os espaços a esquerda e a direita da String.
+  - Metodo lstrip() - Retira espaçamento apenas do lado esquerdo da string.
+  -Metodo rstrip() - Retira o espaçamento apenas do lado direito da string.
+  ___
+  
+  Metodos Para Junção e Centralização de Strings:
+  - Metodo center() - Para centralizar uma string.
+  - Metodo .join() - Para juntarmos um determinado caracter a nossa string.
+  
+  [Ver Mais sobre Manipulação de Strings](https://github.com/henferreirapro/Primeiros-Passos-Python-DIO/tree/main/9%20-%20Manipulando%20Strings)
+
