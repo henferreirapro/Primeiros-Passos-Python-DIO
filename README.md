@@ -90,12 +90,38 @@
   Metodos Para Retirar Espaçamento em Strings:
   - Metodo strip() - Retira os espaços a esquerda e a direita da String.
   - Metodo lstrip() - Retira espaçamento apenas do lado esquerdo da string.
-  -Metodo rstrip() - Retira o espaçamento apenas do lado direito da string.
+  - Metodo rstrip() - Retira o espaçamento apenas do lado direito da string.
   ___
   
   Metodos Para Junção e Centralização de Strings:
   - Metodo center() - Para centralizar uma string.
   - Metodo .join() - Para juntarmos um determinado caracter a nossa string.
   
-  [Ver Mais sobre Manipulação de Strings](https://github.com/henferreirapro/Primeiros-Passos-Python-DIO/tree/main/9%20-%20Manipulando%20Strings)
+  [Ver Mais sobre Manipulação de Strings](https://github.com/henferreirapro/Primeiros-Passos-Python-DIO/tree/main/9%20-%20Manipulando%20Strings/1-formatando-strings)
+
+  ___
+  
+  <h3>Interpolação de String</h3>
+  
+  - Metodo para usar **variaveis** de forma mais **dinamica** e simples **dentro das strings**.
+
+    [Ver Mais Sobre Interpolação de Strings](https://github.com/henferreirapro/Primeiros-Passos-Python-DIO/tree/main/9%20-%20Manipulando%20Strings/2-interpolacao-variaveis)
+
+  ___
+
+  <h3>Fatiamento de Strings</h3>
+  
+  - Formas de **dividir** nossas **strings** em **sub-strings** e assim pegar ou usar **partes** da **string original**.
+
+    [Ver Mais Sobre Fatiamento de Strings](https://github.com/henferreirapro/Primeiros-Passos-Python-DIO/tree/main/9%20-%20Manipulando%20Strings/3-fatiamento-string)
+
+  ___
+
+  <h3>String com Multiplas Linhas</h3>
+
+  - Como podemos usar **strings** com **varias linhas** para construir um **bloco de código** mais bem formatado.
+
+    [Ver mais Sobre Strings com Multiplas Linhas](https://github.com/henferreirapro/Primeiros-Passos-Python-DIO/tree/main/9%20-%20Manipulando%20Strings/4-string-multiplas-linhas)
+
+  ___
 
