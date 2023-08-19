@@ -2,12 +2,12 @@
 
 <h3>Método f-string.</h3>
 
-  -O metodo f-string serve para podermos formatar de forma mais simples e intuitiva nossas strings com as variaveis e dados criados em uma variavel, lista ou objeto.
+  - O metodo f-string serve para podermos formatar de forma mais simples e intuitiva nossas strings com as variaveis e dados criados em uma variavel, lista ou objeto.
 
-  Código:
+  Código: <br>
   <img src="img/1 - Metodo f-string.png">
 
-  Retorno:
+  Retorno: <br>
   <img src="img/1.1 - Retorno do Metodo f-string.png">
 
   Código para copiar:
