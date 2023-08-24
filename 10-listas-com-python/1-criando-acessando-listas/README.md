@@ -166,6 +166,4 @@
   </blockquote>
   <br>
 
-<!-- Função enumerate -->
-
 <!-- Comprensão de listas -->
