@@ -1,4 +1,4 @@
-<h1>Métodos da classe list</h1>
+<h1 align="center">Métodos da classe list</h1>
 
 <!-- .append() -->
 <h2>Método append </h2>
