@@ -1,4 +1,4 @@
-<h1>Criando e Formas de Acesssar uma Tupla</h1>
+<h1 align="center">Criando e Formas de Acesssar uma Tupla</h1>
 <!-- criando uma tupla -->
 <h2>Como Criar uma Tupla</h2>
 

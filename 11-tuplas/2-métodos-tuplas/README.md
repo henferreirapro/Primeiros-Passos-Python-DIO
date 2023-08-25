@@ -1,4 +1,4 @@
-<h1>Métodos da Classe de Tupla</h1>
+<h1 align="center">Métodos da Classe de Tupla</h1>
 
   - As tuplas tem menos métodos para usarmos do que as listas.
 
