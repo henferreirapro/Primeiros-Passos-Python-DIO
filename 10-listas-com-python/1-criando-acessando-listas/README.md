@@ -8,10 +8,10 @@
 <h2>Como Criar uma lista</h2>
   
   <h3>Exemplo:</h3>
-  <img src="img/1-criando-listas.png">
+  <img src="1-criando-acessando-listas/img/1-criando-listas.png">
 
   <h3>Retorno:</h3>
-  <img src="img/1.1-criando-listas.png">
+  <img src="1-criando-acessando-listas/img/1.1-criando-listas.png">
 
   <h3>Código para copiar:</h3>
   <blockquote>
@@ -33,10 +33,10 @@
 <h2>Como Acessar Listas Diretamente</h2>
 
   <h3>Exemplo:</h3>
-  <img src="img/2-acessando-listas.png">
+  <img src="1-criando-acessando-listas/img/2-acessando-listas.png">
 
   <h3>Retorno:</h3>
-  <img src="img/2.2-acessando-listas.png">
+  <img src="1-criando-acessando-listas/img/2.2-acessando-listas.png">
 
   <h3>Código para copiar:</h3>
   <blockquote>
@@ -59,10 +59,10 @@
   - Listas aninhadas são listas dentro de listas.
 
   <h3>Exemplo:</h3>
-  <img src="img/3-lista-aninhada.png">
+  <img src="1-criando-acessando-listas/img/3-lista-aninhada.png">
 
   <h3>Retorno:</h3>
-  <img src="img/3.3-lista-aninhada.png">
+  <img src="1-criando-acessando-listas/img/3.3-lista-aninhada.png">
 
   <h3>Código para copiar:</h3>
   <blockquote>
@@ -98,10 +98,10 @@
   - E o intervalo(step), que serve como uma opção para pular os itens de uma lista, exemplo se quisessemos pegar do item 0 ao 5 pulando de 2 em 2 itens.
 
   <h3>Exemplo:</h3>
-  <img src="img/4-fatiamento-listas.png">
+  <img src="1-criando-acessando-listas/img/4-fatiamento-listas.png">
 
   <h3>Retorno:</h3>
-  <img src="img/4.4-fatiamento-listas.png">
+  <img src="1-criando-acessando-listas/img/4.4-fatiamento-listas.png">
 
   <h3>Código para copiar:</h3>
   <blockquote>
@@ -142,10 +142,10 @@
   - O **enumerate** serve para quando precisamos **saber o indice** do item que estamos percorrendo, ele sempre começa com zero.
 
   <h3>Exemplo:</h3>
-  <img src="img/5-percorrer-listas.png">
+  <img src="1-criando-acessando-listas/img/5-percorrer-listas.png">
 
   <h3>Retorno:</h3>
-  <img src="img/5.5-percorrer-listas.png">
+  <img src="1-criando-acessando-listas/img/5.5-percorrer-listas.png">
 
   <h3>Código para copiar:</h3>
   <blockquote>
