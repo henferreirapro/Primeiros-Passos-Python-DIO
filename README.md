@@ -1,6 +1,6 @@
 <h3>Listas e seus Metodos</h3>
 
-  - - Listas podem armazenar qualquer tipo de objeto de forma sequencial.
+  - Listas podem armazenar qualquer tipo de objeto de forma sequencial.
   - Existem **3 formas** para criar uma lista em Python, utilizando o construtor **list**, a função **range** ou colocando valores separados por virgulas dentro de colchetes.
   - Lembrando que listas são **objetos mutaveis**, então podemos **alterar** os dados dentro dela.
 
