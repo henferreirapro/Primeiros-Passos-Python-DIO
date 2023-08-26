@@ -1,4 +1,4 @@
-<h1 align="center">Criando e acessando um Dicionario em Python</h1>
+<h1 align="center">Criando e Acessando um Dicionario em Python</h1>
 
   - Para criarmos um dicionário podemos utilizar as chaves{} ou a classe dict.
   - Dicionários são formados de chaves e valores como por exemplo nome="Henrique".
