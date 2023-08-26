@@ -144,3 +144,18 @@ ___
     [Como criar Tuplas e Acessar Seus Dados](https://github.com/henferreirapro/Primeiros-Passos-Python-DIO/tree/6-tuplas-com-python/11-tuplas/1-criar-acessar-tuplas#criando-e-formas-de-acesssar-uma-tupla)
     
     [Métodos Utilizados em Tuplas](https://github.com/henferreirapro/Primeiros-Passos-Python-DIO/tree/6-tuplas-com-python/11-tuplas/2-m%C3%A9todos-tuplas)
+
+
+___
+<h2>Dicionarios com Python</h2>
+
+  - Dicionarios são um conjunto não ordenado de chave e valor.
+  - As chaves podem ser dadas como instancias dos dados, como nome, idade, etc..
+  - Os valores são os dados em si que cada chave receberá.
+  - Para criar um dicionario podemos utilizar as chaves **{}** ou a classe **dict** e dentro dela adicionar uma lista com os dados.
+
+    [Criando um Dicionário](https://github.com/henferreirapro/Primeiros-Passos-Python-DIO/tree/7-dicionarios-com-python/12-dicionarios/1-criando-dicionario)
+
+    [Métodos da classe Dicionario]()
+
+___
